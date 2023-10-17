@@ -1,0 +1,1351 @@
+[
+    {
+        "litID": 3984914645,
+        "dateJoined": "Desember 2022",
+        "following": 22,
+        "followers": 13,
+        "diamond": 24,
+        "tag": ["Ingin chat"],
+        "fotoSampul": "",
+        "avatar": "monster_avatar_4",
+        "party": false,
+        "username": "Surya Ramadhani",
+        "gender": "male",
+        "age": 24,
+        "profileBio": "dah mati rasa",
+        "profileStatus": "",
+        "lastSeen": "Aktif Sekarang",
+        "lastSeenChatDate": "14:55",
+        "lastSeenChat": "1 menit yang lalu",
+        "userLocation": "",
+        "pesan": ["hei"],
+        "post": [
+            {
+                "datePosted": "01-15 20:38",
+                "statusText": "Coba Post ah",
+                "statusTag": [],
+                "gambarPost": ["vertical5"],
+                "voicePost": [],
+                "seen": 1291,
+                "postLocation": "",
+                "feedLikes": [
+                    {   "avatarLikes": "monster_avatar_1",
+                        "userLikes": "Riski",
+                        "genderLikes": "male",
+                        "ageLikes": 24,
+                        "userLikesStatus": "bosenan"
+                        
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_2",
+                        "userLikes": "Anaa",
+                        "genderLikes": "female",
+                        "ageLikes": 19,
+                        "userLikesStatus": "mabar yuk"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_3",
+                        "userLikes": "Diana",
+                        "genderLikes": "female",
+                        "ageLikes": 21,
+                        "userLikesStatus": "jakarta timur"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_4",
+                        "userLikes": "Rahmat",
+                        "genderLikes": "male",
+                        "ageLikes": 18,
+                        "userLikesStatus": "apa aja"
+                    }
+                ],
+                "feedComments": [
+                    {
+                        "avatarComments": "monster_avatar_1",
+                        "userComments": "Rahma",
+                        "genderComments": "female",
+                        "ageComments": 28,
+                        "commentStatus": "",
+                        "commentPostedDate": "8b",
+                        "comments": "jutek pasti",
+                        "feedReComments": [
+                            {
+                                "avatarReComments": "monster_avatar_4",
+                                "userReComments": "Surya Ramadhani",
+                                "genderReComments": "male",
+                                "ageReComments": 24,
+                                "recommentPostedDate": "36m",
+                                "userReCommentStatus": "Penulis",
+                                "reComment": "enggak dong"
+                            },
+                            {
+                                "avatarReComments": "monster_avatar_1",
+                                "userReComments": "Rahma",
+                                "genderReComments": "female",
+                                "ageReComments": 28,
+                                "recommentPostedDate": "26m",
+                                "userReCommentStatus": "",
+                                "reComment": "masa sihh"
+                            }
+                        ]
+                    },
+                    {
+                        "avatarComments": "monster_avatar_3",
+                        "userComments": "Anna",
+                        "genderComments": "female",
+                        "ageComments": 21,
+                        "commentStatus": "",
+                        "commentPostedDate": "8b",
+                        "comments": "keren banget",
+                        "feedReComments": []
+                    }
+                ],
+                "feedShare": 0
+            }
+        ]
+    },
+    {
+        "litID": 123456789,
+        "dateJoined": "Januari 2023",
+        "following": 234,
+        "followers": 156,
+        "diamond": 24,
+        "tag": ["Suka Begadang", "Humoris"],
+        "fotoSampul": "foto_sampul1",
+        "avatar": "monster_avatar_17",
+        "party": false,
+        "username": "lisa",
+        "gender": "female",
+        "age": 20,
+        "profileBio": "apa aja deh",
+        "profileStatus": "Mau chat",
+        "lastSeen": "Aktif 5 jam lalu",
+        "lastSeenChatDate": "09:55",
+        "lastSeenChat": "5 jam yang lalu",
+        "userLocation": "",
+        "pesan": ["hallo"],
+        "post": [
+            {
+                "datePosted": "09-20 12:34",
+                "statusText": "makin dewasa kayanya masalah makin rumit ya",
+                "statusTag": ["#pemandangandialbum", "#temananyuk"],
+                "gambarPost": [],
+                "voicePost": [],
+                "seen": 189,
+                "postLocation": "",
+                "feedLikes": [
+                    {
+                        "avatarLikes": "monster_avatar_16",
+                        "userLikes": "ed",
+                        "genderLikes": "male",
+                        "ageLikes": 20,
+                        "userLikesStatus": "Nyari temen"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_15",
+                        "userLikes": "Acep sr",
+                        "genderLikes": "male",
+                        "ageLikes": 18,
+                        "userLikesStatus": "produk sunda yeh.."
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_14",
+                        "userLikes": "nutela",
+                        "genderLikes": "male",
+                        "ageLikes": 23,
+                        "userLikesStatus": "Bekasi"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_13",
+                        "userLikes": "ari",
+                        "genderLikes": "male",
+                        "ageLikes": 22,
+                        "userLikesStatus": "mutual ig?"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_12",
+                        "userLikes": "akuma",
+                        "genderLikes": "male",
+                        "ageLikes": 26,
+                        "userLikesStatus": "penikmat kopi"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_11",
+                        "userLikes": "Blue",
+                        "genderLikes": "female",
+                        "ageLikes": 22,
+                        "userLikesStatus": "@rahmasafitri"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_10",
+                        "userLikes": "lisa",
+                        "genderLikes": "female",
+                        "ageLikes": 20,
+                        "userLikesStatus": "orangnya humoris"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_9",
+                        "userLikes": "iqbal",
+                        "genderLikes": "male",
+                        "ageLikes": 20,
+                        "userLikesStatus": "ig: ickyy2087_"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_8",
+                        "userLikes": "lisa",
+                        "genderLikes": "female",
+                        "ageLikes": 20,
+                        "userLikesStatus": "lagi butuh temen ngobrol aja"
+                    }
+                    
+                ],
+                "feedComments": [
+                    {
+                        "avatarComments": "monster_avatar_2",
+                        "userComments": "Eza",
+                        "genderComments": "male",
+                        "ageComments": 23,
+                        "commentStatus": "",
+                        "commentPostedDate": "5j",
+                        "comments": "makin berat juga()",
+                        "feedReComments": [
+                            {
+                                "avatarReComments": "monster_avatar_17",
+                                "userReComments": "lisa",
+                                "genderReComments": "female",
+                                "ageReComments": 20,
+                                "recommentPostedDate": "5j",
+                                "userReCommentStatus": "Penulis",
+                                "reComment": "@Eza: gak ada obat buat ringanin masalah lagi"
+                            },
+                            {
+                                "avatarReComments": "monster_avatar_2",
+                                "userReComments": "Eza",
+                                "genderReComments": "male",
+                                "ageReComments": 23,
+                                "recommentPostedDate": "5j",
+                                "userReCommentStatus": "",
+                                "reComment": "@lisa Kalau ada obatnya... Udh ga ada yg pusing orang()"
+                            },
+                            {
+                                "avatarReComments": "monster_avatar_17",
+                                "userReComments": "lisa",
+                                "genderReComments": "female",
+                                "ageReComments": 20,
+                                "recommentPostedDate": "5j",
+                                "userReCommentStatus": "Penulis",
+                                "reComment": "@Eza: bener mungkin klo ada udh laku di pasaran"
+                            },
+                            {
+                                "avatarReComments": "monster_avatar_2",
+                                "userReComments": "Eza",
+                                "genderReComments": "male",
+                                "ageReComments": 23,
+                                "recommentPostedDate": "5j",
+                                "userReCommentStatus": "",
+                                "reComment": "@Eza: laku banget2()()"
+                            }
+                        ]
+                    },
+                    {
+                        "avatarComments": "monster_avatar_4",
+                        "userComments": "jejeey",
+                        "genderComments": "male",
+                        "ageComments": 28,
+                        "commentStatus": "",
+                        "commentPostedDate": "5j",
+                        "comments": "masaaaaaa...??",
+                        "feedReComments": []
+                    },
+                    {
+                        "avatarComments": "monster_avatar_8",
+                        "userComments": "M Alfie Fazri...",
+                        "genderComments": "male",
+                        "ageComments": 25,
+                        "commentStatus": "",
+                        "commentPostedDate": "5j",
+                        "comments": "engga juga",
+                        "feedReComments": [
+                            {
+                                "avatarReComments": "monster_avatar_17",
+                                "userReComments": "lisa",
+                                "genderReComments": "female",
+                                "ageReComments": 20,
+                                "recommentPostedDate": "5j",
+                                "userReCommentStatus": "Penulis",
+                                "reComment": "@M Alfie Fa...: berarti hidup kamu bahagia()"
+                            }
+                        ]
+                    }
+                ],
+                "feedShare": 1
+            },
+            {
+                "datePosted": "09-20 01:15",
+                "statusText": "bebas pertanyaan dan jangan aneh2",
+                "statusTag": ["#temananyuk", "#yukchattan"],
+                "gambarPost": [],
+                "voicePost": [],
+                "seen": 1076,
+                "postLocation": "",
+                "feedLikes": [
+                    {
+                        "avatarLikes": "monster_avatar_7",
+                        "userLikes": "fizh",
+                        "genderLikes": "male",
+                        "ageLikes": 20,
+                        "userLikesStatus": ""
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_8",
+                        "userLikes": "Mas Ciell()()",
+                        "genderLikes": "male",
+                        "ageLikes": 20,
+                        "userLikesStatus": "Jatim Pride()..."
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_9",
+                        "userLikes": "()s4nn()",
+                        "genderLikes": "male",
+                        "ageLikes": 21,
+                        "userLikesStatus": "iam fine()..."
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_10",
+                        "userLikes": "Rama febrian",
+                        "genderLikes": "male",
+                        "ageLikes": 18,
+                        "userLikesStatus": "cari doi()"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_5",
+                        "userLikes": "RiskiAthaMaulana",
+                        "genderLikes": "male",
+                        "ageLikes": 25,
+                        "userLikesStatus": "Cari pasangan yang mau nera saya apa-apa..."
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_4",
+                        "userLikes": "belum punya",
+                        "genderLikes": "male",
+                        "ageLikes": 28,
+                        "userLikesStatus": "cari doi()"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_3",
+                        "userLikes": "Regar",
+                        "genderLikes": "male",
+                        "ageLikes": 22,
+                        "userLikesStatus": "cari doi()"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_2",
+                        "userLikes": "true",
+                        "genderLikes": "male",
+                        "ageLikes": 24,
+                        "userLikesStatus": "introvert"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_1",
+                        "userLikes": "PAKET()",
+                        "genderLikes": "male",
+                        "ageLikes": 22,
+                        "userLikesStatus": "ams ytta"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_14",
+                        "userLikes": "indri",
+                        "genderLikes": "female",
+                        "ageLikes": 18,
+                        "userLikesStatus": "here"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_15",
+                        "userLikes": "Pemuda Tersesat",
+                        "genderLikes": "male",
+                        "ageLikes": 23,
+                        "userLikesStatus": "Suka ngobrol sama tembok..."
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_16",
+                        "userLikes": "inisial R",
+                        "genderLikes": "male",
+                        "ageLikes": 24,
+                        "userLikesStatus": "ada yg ngajak serius hapus akun"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_10",
+                        "userLikes": "abi",
+                        "genderLikes": "male",
+                        "ageLikes": 22,
+                        "userLikesStatus": "halo"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_12",
+                        "userLikes": "oal.cvsd",
+                        "genderLikes": "male",
+                        "ageLikes": 20,
+                        "userLikesStatus": "#curvasud"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_11",
+                        "userLikes": "lana",
+                        "genderLikes": "male",
+                        "ageLikes": 19,
+                        "userLikesStatus": "gabut()"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_9",
+                        "userLikes": "kipss",
+                        "genderLikes": "male",
+                        "ageLikes": 27,
+                        "userLikesStatus": ""
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_2",
+                        "userLikes": "agaa",
+                        "genderLikes": "male",
+                        "ageLikes": 27,
+                        "userLikesStatus": "ayooooo"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_3",
+                        "userLikes": "baz",
+                        "genderLikes": "male",
+                        "ageLikes": 27,
+                        "userLikesStatus": ""
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_1",
+                        "userLikes": "permana cz",
+                        "genderLikes": "male",
+                        "ageLikes": 35,
+                        "userLikesStatus": ""
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_10",
+                        "userLikes": "Bojing",
+                        "genderLikes": "male",
+                        "ageLikes": 21,
+                        "userLikesStatus": ""
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_5",
+                        "userLikes": "Riz",
+                        "genderLikes": "male",
+                        "ageLikes": 27,
+                        "userLikesStatus": "ig: rizkyrstn"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_7",
+                        "userLikes": "vardli",
+                        "genderLikes": "male",
+                        "ageLikes": 17,
+                        "userLikesStatus": "plat E."
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_2",
+                        "userLikes": "PENGAGUMMNU()",
+                        "genderLikes": "male",
+                        "ageLikes": 22,
+                        "userLikesStatus": "Kosong"
+                    }
+                    
+                ],
+                "feedComments": [
+                    {
+                        "avatarComments": "monster_avatar_17",
+                        "userComments": "Zero",
+                        "genderComments": "male",
+                        "ageComments": 26,
+                        "commentStatus": "",
+                        "commentPostedDate": "1m",
+                        "comments": "apa yang mau saya tanyakan ?",
+                        "feedReComments": [
+                            
+                        ]
+                    },
+                    {
+                        "avatarComments": "monster_avatar_16",
+                        "userComments": "penjahat MK15",
+                        "genderComments": "male",
+                        "ageComments": 24,
+                        "commentStatus": "",
+                        "commentPostedDate": "1m",
+                        "comments": "maksudnya bagaimana sih()()",
+                        "feedReComments": []
+                    },
+                    {
+                        "avatarComments": "monster_avatar_15",
+                        "userComments": "Malika",
+                        "genderComments": "male",
+                        "ageComments": 24,
+                        "commentStatus": "",
+                        "commentPostedDate": "1m",
+                        "comments": "bebas tapi jangan aneh2()",
+                        "feedReComments": [
+                            
+                        ]
+                    },
+                    {
+                        "avatarComments": "monster_avatar_12",
+                        "userComments": "joo",
+                        "genderComments": "male",
+                        "ageComments": 19,
+                        "commentStatus": "",
+                        "commentPostedDate": "1m",
+                        "comments": "kalo di chat di bls gak",
+                        "feedReComments": [
+                            
+                        ]
+                    },
+                    {
+                        "avatarComments": "monster_avatar_11",
+                        "userComments": "indri",
+                        "genderComments": "female",
+                        "ageComments": 18,
+                        "commentStatus": "",
+                        "commentPostedDate": "1m",
+                        "comments": "biar apa kak?",
+                        "feedReComments": [
+                            {
+                                "avatarReComments": "monster_avatar_8",
+                                "userReComments": "???????????",
+                                "genderReComments": "female",
+                                "ageReComments": 30,
+                                "recommentPostedDate": "1m",
+                                "userReCommentStatus": "",
+                                "reComment": "biarin..()()"
+                            }
+                        ]
+                    },
+                    {
+                        "avatarComments": "monster_avatar_9",
+                        "userComments": "xixixi",
+                        "genderComments": "male",
+                        "ageComments": 22,
+                        "commentStatus": "",
+                        "commentPostedDate": "1m",
+                        "comments": "1 + 1 berapa?",
+                        "feedReComments": [
+                            
+                        ]
+                    },
+                    {
+                        "avatarComments": "monster_avatar_8",
+                        "userComments": "abi",
+                        "genderComments": "male",
+                        "ageComments": 22,
+                        "commentStatus": "",
+                        "commentPostedDate": "1m",
+                        "comments": "ig trs difllbck",
+                        "feedReComments": [
+                            
+                        ]
+                    }
+                ],
+                "feedShare": 1
+            }
+        ]
+    },
+    {
+        "litID": 3984914529,
+        "dateJoined": "Februari 2021",
+        "following": 67,
+        "followers": 49,
+        "diamond": 289,
+        "tag": [],
+        "fotoSampul": "",
+        "avatar": "monster_avatar_3",
+        "party": false,
+        "username": "beby kim()",
+        "gender": "female",
+        "age": 20,
+        "profileBio": "aku pendiam",
+        "profileStatus": "Teman bermain game",
+        "lastSeen": "Aktif Sekarang",
+        "lastSeenChatDate": "14:55",
+        "lastSeenChat": "2 menit yang lalu",
+        "userLocation": "",
+        "pesan": ["kiw"],
+        "post": [
+            
+        ]
+    },
+    {
+        "litID": 1346445525,
+        "dateJoined": "Maret 2020",
+        "following": 128,
+        "followers": 79,
+        "diamond": 413,
+        "tag": ["Ingin chat", "Pemalu", "Hobi Rebahan", "Gemini", "Mencari teman baru", "K pop"],
+        "fotoSampul": "foto_sampul_2",
+        "avatar": "monster_avatar_12",
+        "party": false,
+        "username": "iyah",
+        "gender": "female",
+        "age": 23,
+        "profileBio": "ngestalk mulu chat napa respon ko ig: @iyahsumariah12",
+        "profileStatus": "",
+        "lastSeen": "Aktif 1 jam yang lalu",
+        "lastSeenChatDate": "Selasa",
+        "lastSeenChat": "1 jam yang lalu",
+        "userLocation": "Jakarta Utara",
+        "pesan": [],
+        "post": [
+            {
+                "datePosted": "2020-08-23 21:22",
+                "statusText": "tmen sehari2 mereka ber 3",
+                "statusTag": ["#katauntuksendiri"],
+                "gambarPost": [],
+                "voicePost": [],
+                "seen": 189,
+                "postLocation": "",
+                "feedLikes": [
+                    {
+                        "avatarLikes": "monster_avatar_1",
+                        "userLikes": "Mas",
+                        "genderLikes": "male",
+                        "ageLikes": 22,
+                        "userLikesStatus": "Jateng, indonesia"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_2",
+                        "userLikes": "aldo",
+                        "genderLikes": "male",
+                        "ageLikes": 17,
+                        "userLikesStatus": ""
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_3",
+                        "userLikes": "mizon",
+                        "genderLikes": "male",
+                        "ageLikes": 24,
+                        "userLikesStatus": "unyu unyu"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_4",
+                        "userLikes": "Cazzper",
+                        "genderLikes": "male",
+                        "ageLikes": 28,
+                        "userLikesStatus": "damn!"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_5",
+                        "userLikes": "xx_n.p",
+                        "genderLikes": "male",
+                        "ageLikes": 24,
+                        "userLikesStatus": "sempurna lo? awas meninggoy"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_17",
+                        "userLikes": "gustiin",
+                        "genderLikes": "male",
+                        "ageLikes": 31,
+                        "userLikesStatus": "Depok bogor"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_16",
+                        "userLikes": "rizky",
+                        "genderLikes": "male",
+                        "ageLikes": 30,
+                        "userLikesStatus": "Subscribe:kazztriea rizky2..."
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_15",
+                        "userLikes": "Cuman Badut",
+                        "genderLikes": "male",
+                        "ageLikes": 30,
+                        "userLikesStatus": "Assalamualaikum."
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_14",
+                        "userLikes": "ocong",
+                        "genderLikes": "male",
+                        "ageLikes": 27,
+                        "userLikesStatus": "bandung barat"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_11",
+                        "userLikes": "Eky",
+                        "genderLikes": "male",
+                        "ageLikes": 25,
+                        "userLikesStatus": "()"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_13",
+                        "userLikes": "Mas B",
+                        "genderLikes": "male",
+                        "ageLikes": 25,
+                        "userLikesStatus": ""
+                    }
+                    
+                ],
+                "feedComments": [
+                    {
+                        "avatarComments": "monster_avatar_14",
+                        "userComments": "zaay",
+                        "genderComments": "male",
+                        "ageComments": 23,
+                        "commentStatus": "",
+                        "commentPostedDate": "52m",
+                        "comments": "pngen satu aku",
+                        "feedReComments": [
+                            
+                        ]
+                    },
+                    {
+                        "avatarComments": "monster_avatar_12",
+                        "userComments": "iyah",
+                        "genderComments": "female",
+                        "ageComments": 23,
+                        "commentStatus": "penulis",
+                        "commentPostedDate": "5j",
+                        "comments": "gak boleh",
+                        "feedReComments": []
+                    }
+                ],
+                "feedShare": 0
+            },
+            {
+                "datePosted": "21 menit yang lalu",
+                "statusText": "",
+                "statusTag": ["#pemandangandialbum", "temananyuk", "smtown2023"],
+                "gambarPost": ["lanscape", "square", "vertical5"],
+                "voicePost": [],
+                "seen": 189,
+                "postLocation": "",
+                "feedLikes": [
+                    {
+                        "avatarLikes": "monster_avatar_13",
+                        "userLikes": "in the tim",
+                        "genderLikes": "male",
+                        "ageLikes": 25,
+                        "userLikesStatus": "suka kepengen..."
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_1",
+                        "userLikes": "beruang madu",
+                        "genderLikes": "male",
+                        "ageLikes": 27,
+                        "userLikesStatus": "suka rahah..."
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_7",
+                        "userLikes": "hojlund1",
+                        "genderLikes": "male",
+                        "ageLikes": 26,
+                        "userLikesStatus": "anda sudah di Blokir..."
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_4",
+                        "userLikes": "Bagas_Syahputra",
+                        "genderLikes": "male",
+                        "ageLikes": 25,
+                        "userLikesStatus": "tidak ada bionya"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_9",
+                        "userLikes": "agusriyanto",
+                        "genderLikes": "male",
+                        "ageLikes": 33,
+                        "userLikesStatus": "GRIYA MINA"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_17",
+                        "userLikes": "Daanfchrz",
+                        "genderLikes": "male",
+                        "ageLikes": 31,
+                        "userLikesStatus": "()Bandung - Yogyakarta"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_13",
+                        "userLikes": "jodohmu",
+                        "genderLikes": "male",
+                        "ageLikes": 24,
+                        "userLikesStatus": ".."
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_4",
+                        "userLikes": "aldo",
+                        "genderLikes": "male",
+                        "ageLikes": 17,
+                        "userLikesStatus": ""
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_15",
+                        "userLikes": "Mas",
+                        "genderLikes": "male",
+                        "ageLikes": 22,
+                        "userLikesStatus": "Jateng, indonesia"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_12",
+                        "userLikes": "Ardan",
+                        "genderLikes": "male",
+                        "ageLikes": 20,
+                        "userLikesStatus": "DAMN!"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_16",
+                        "userLikes": "Dra",
+                        "genderLikes": "male",
+                        "ageLikes": 20,
+                        "userLikesStatus": "indo"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_2",
+                        "userLikes": "fy",
+                        "genderLikes": "male",
+                        "ageLikes": 25,
+                        "userLikesStatus": "Viking Tamara"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_8",
+                        "userLikes": "Raden",
+                        "genderLikes": "male",
+                        "ageLikes": 26,
+                        "userLikesStatus": "Dia pendatang baru chat saja"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_9",
+                        "userLikes": "arfa",
+                        "genderLikes": "male",
+                        "ageLikes": 23,
+                        "userLikesStatus": "nyari yang 1 frekuensi"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_1",
+                        "userLikes": "mizon",
+                        "genderLikes": "male",
+                        "ageLikes": 24,
+                        "userLikesStatus": "unyu unyu"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_10",
+                        "userLikes": "agus",
+                        "genderLikes": "male",
+                        "ageLikes": 33,
+                        "userLikesStatus": "wa 0896123456789"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_14",
+                        "userLikes": "i'm xavier",
+                        "genderLikes": "male",
+                        "ageLikes": 22,
+                        "userLikesStatus": "indramayu kota mangga"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_2",
+                        "userLikes": "ns nio",
+                        "genderLikes": "male",
+                        "ageLikes": 29,
+                        "userLikesStatus": "()sippa"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_8",
+                        "userLikes": "G.Sp",
+                        "genderLikes": "male",
+                        "ageLikes": 219,
+                        "userLikesStatus": "IG: Gsp_utra"
+                    }
+                    
+                ],
+                "feedComments": [
+                    
+                ],
+                "feedShare": 0
+            },
+            {
+                "datePosted": "09-15 18:49",
+                "statusText": "",
+                "statusTag": ["#biodata", "katauntuksendiri", "temananyuk"],
+                "gambarPost": ["vertical2", "vertical3", "vertical4", "vertical5"],
+                "voicePost": [],
+                "seen": 189,
+                "postLocation": "Jakarta Utara",
+                "feedLikes": [
+                    {
+                        "avatarLikes": "monster_avatar_9",
+                        "userLikes": "Mas",
+                        "genderLikes": "male",
+                        "ageLikes": 22,
+                        "userLikesStatus": "Jateng, indonesia"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_8",
+                        "userLikes": "mizon",
+                        "genderLikes": "male",
+                        "ageLikes": 24,
+                        "userLikesStatus": "unyu unyu"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_3",
+                        "userLikes": "gutiin",
+                        "genderLikes": "male",
+                        "ageLikes": 31,
+                        "userLikesStatus": "Depok bogor"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_15",
+                        "userLikes": "Pradana",
+                        "genderLikes": "male",
+                        "ageLikes": 25,
+                        "userLikesStatus": "hal hal yang baik sedang dalam perjalanan"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_12",
+                        "userLikes": "ical Oby",
+                        "genderLikes": "male",
+                        "ageLikes": 23,
+                        "userLikesStatus": "cari teman chat"
+                    }
+                    
+                ],
+                "feedComments": [
+                    
+                ],
+                "feedShare": 0
+            }
+        ]
+    },
+    {
+        "litID": 4525071508,
+        "dateJoined": "Juni 2023",
+        "following": 14,
+        "followers": 8,
+        "diamond": 0,
+        "tag": ["Romantis", "Manja", "Cool"],
+        "fotoSampul": "",
+        "avatar": "monster_avatar_5",
+        "party": false,
+        "username": "andini",
+        "gender": "female",
+        "age": 27,
+        "profileBio": "Dia misterius",
+        "profileStatus": "",
+        "lastSeen": "Aktif Sekarang",
+        "lastSeenChatDate": "Senin",
+        "lastSeenChat": "2 hari yang lalu",
+        "userLocation": "",
+        "pesan": [],
+        "post": [
+            
+        ]
+    },
+    {
+        "litID": 4821050103,
+        "dateJoined": "September 2023",
+        "following": 14,
+        "followers": 8,
+        "diamond": 0,
+        "tag": ["Humoris"],
+        "fotoSampul": "",
+        "avatar": "monster_avatar_16",
+        "party": false,
+        "username": "Reza",
+        "gender": "male",
+        "age": 24,
+        "profileBio": "perkenalkan aku reza",
+        "profileStatus": "Ingin telepon",
+        "lastSeen": "Aktif 2 hari yang lalu",
+        "lastSeenChatDate": "10/08",
+        "lastSeenChat": "2 hari yang lalu",
+        "userLocation": "",
+        "pesan": ["??"],
+        "post": [
+            
+        ]
+    },
+    {
+        "litID": 2577556531,
+        "dateJoined": "Januari 2022",
+        "following": 26,
+        "followers": 14,
+        "diamond": 47,
+        "tag": ["pengacara"],
+        "fotoSampul": "",
+        "avatar": "monster_avatar_7",
+        "party": false,
+        "username": "cep",
+        "gender": "male",
+        "age": 25,
+        "profileBio": "Dia misterius",
+        "profileStatus": "",
+        "lastSeen": "Aktif 7 hari yang lalu",
+        "lastSeenChatDate": "10/04",
+        "lastSeenChat": "7 hari yang lalu",
+        "userLocation": "Kabupaten Bandung",
+        "pesan": [],
+        "post": [
+            
+        ]
+    },
+    {
+        "litID": 4821077562,
+        "dateJoined": "September 2023",
+        "following": 26,
+        "followers": 14,
+        "diamond": 47,
+        "tag": [],
+        "fotoSampul": "",
+        "avatar": "monster_avatar_8",
+        "party": false,
+        "username": "Gilang",
+        "gender": "male",
+        "age": 20,
+        "profileBio": "Dia pendatang baru",
+        "profileStatus": "",
+        "lastSeen": "Aktif Sekarang",
+        "lastSeenChatDate": "10/02",
+        "lastSeenChat": "Aktif Sekarang",
+        "userLocation": "",
+        "pesan": [],
+        "post": [
+            
+        ]
+    },
+    {
+        "litID": 4022839096,
+        "dateJoined": "Desember 2022",
+        "following": 896,
+        "followers": 23,
+        "diamond": 85,
+        "tag": [],
+        "fotoSampul": "fotokucing",
+        "avatar": "monster_avatar_9",
+        "party": false,
+        "username": "Likaa",
+        "gender": "male",
+        "age": 20,
+        "profileBio": "Dia pendatang baru",
+        "profileStatus": "Mau chat",
+        "lastSeen": "Aktif 14 jam yang lalu",
+        "lastSeenChatDate": "10/01",
+        "lastSeenChat": "Aktif 14 jam yang lalu",
+        "userLocation": "",
+        "pesan": [],
+        "post": [
+            {
+                "datePosted": "09-26 14:14",
+                "statusText": "untuk pelajaran lain kali ga boleh terlalu baperr",
+                "statusTag": [],
+                "gambarPost": [],
+                "voicePost": [],
+                "seen": 189,
+                "postLocation": "",
+                "feedLikes": [
+                    {
+                        "avatarLikes": "monster_avatar_2",
+                        "userLikes": "Ariess",
+                        "genderLikes": "male",
+                        "ageLikes": 18,
+                        "userLikesStatus": "semoga menjadi berkah, amin()()"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_4",
+                        "userLikes": "ACHMAD FATOHNI",
+                        "genderLikes": "male",
+                        "ageLikes": 21,
+                        "userLikesStatus": "jomblo"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_10",
+                        "userLikes": "ndri",
+                        "genderLikes": "male",
+                        "ageLikes": 22,
+                        "userLikesStatus": "suka makan tdr"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_8",
+                        "userLikes": "VARIO 150 SILVER",
+                        "genderLikes": "male",
+                        "ageLikes": 30,
+                        "userLikesStatus": "cwok jomblo"
+                    }
+                    
+                ],
+                "feedComments": [
+                    
+                ],
+                "feedShare": 0
+            },
+            {
+                "datePosted": "07-27 08:54",
+                "statusText": "info loker dongg kakk()",
+                "statusTag": [],
+                "gambarPost": [],
+                "voicePost": [],
+                "seen": 189,
+                "postLocation": "",
+                "feedLikes": [
+                    {
+                        "avatarLikes": "monster_avatar_3",
+                        "userLikes": "michella",
+                        "genderLikes": "female",
+                        "ageLikes": 19,
+                        "userLikesStatus": "Butuh temen cewek berjilbab"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_1",
+                        "userLikes": "shem",
+                        "genderLikes": "male",
+                        "ageLikes": 21,
+                        "userLikesStatus": "Bengkulu"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_5",
+                        "userLikes": "Muh. yusuf",
+                        "genderLikes": "male",
+                        "ageLikes": 22,
+                        "userLikesStatus": "Jakarta"
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_7",
+                        "userLikes": "dimas",
+                        "genderLikes": "male",
+                        "ageLikes": 17,
+                        "userLikesStatus": ""
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_9",
+                        "userLikes": "jamil",
+                        "genderLikes": "male",
+                        "ageLikes": 19,
+                        "userLikesStatus": "Jakarta timur..."
+                    },
+                    {
+                        "avatarLikes": "monster_avatar_11",
+                        "userLikes": "susu coklat",
+                        "genderLikes": "female",
+                        "ageLikes": 24,
+                        "userLikesStatus": "bowlehh"
+                    }
+                ],
+                "feedComments": [
+                    {
+                        "avatarComments": "monster_avatar_8",
+                        "userComments": "adi",
+                        "genderComments": "male",
+                        "ageComments": 21,
+                        "commentStatus": "",
+                        "commentPostedDate": "2h",
+                        "comments": "ada ni guyss semuanya di compay gua",
+                        "feedReComments": [
+                            
+                        ]
+                    },
+                    {
+                        "avatarComments": "monster_avatar_9",
+                        "userComments": "orang awam",
+                        "genderComments": "female",
+                        "ageComments": 23,
+                        "commentStatus": "",
+                        "commentPostedDate": "9m",
+                        "comments": "ada di Majalengka barangkali minat",
+                        "feedReComments": [
+                            {
+                                "avatarReComments": "monster_avatar_9",
+                                "userReComments": "Likaa",
+                                "genderReComments": "female",
+                                "ageReComments": 18,
+                                "recommentPostedDate": "9m",
+                                "userReCommentStatus": "Penulis",
+                                "reComment": "biarin..()()"
+                            }
+                        ]
+                    },
+                    {
+                        "avatarComments": "monster_avatar_10",
+                        "userComments": "Ayahh",
+                        "genderComments": "male",
+                        "ageComments": 22,
+                        "commentStatus": "",
+                        "commentPostedDate": "9m",
+                        "comments": "cari di daerah P.I.K kan banyak",
+                        "feedReComments": [
+                            
+                        ]
+                    },
+                    {
+                        "avatarComments": "monster_avatar_13",
+                        "userComments": "Likaa",
+                        "genderComments": "female",
+                        "ageComments": 18,
+                        "commentStatus": "Penulis",
+                        "commentPostedDate": "9m",
+                        "comments": "minimal komen lahya",
+                        "feedReComments": [
+                            {
+                                "avatarReComments": "monster_avatar_8",
+                                "userReComments": "orang awam",
+                                "genderReComments": "male",
+                                "ageReComments": 20,
+                                "recommentPostedDate": "9m",
+                                "userReCommentStatus": "",
+                                "reComment": "emng kmu dimna?"
+                            }
+                        ]
+                    },
+                    {
+                        "avatarComments": "monster_avatar_4",
+                        "userComments": "decka",
+                        "genderComments": "male",
+                        "ageComments": 22,
+                        "commentStatus": "",
+                        "commentPostedDate": "7m",
+                        "comments": "nih Epson",
+                        "feedReComments": [
+                            
+                        ]
+                    }
+                ],
+                "feedShare": 0
+            }
+        ]
+    },
+    {
+        "litID": 4687157559,
+        "dateJoined": "Agustus 2023",
+        "following": 26,
+        "followers": 14,
+        "diamond": 47,
+        "tag": ["cantik", "Humoris", "Romantis", "Hobi Rebahan", "Bosan", "Manja", "Kesepian", "Pemalu"],
+        "fotoSampul": "",
+        "avatar": "monster_avatar_10",
+        "party": false,
+        "username": "Diana",
+        "gender": "female",
+        "age": 20,
+        "profileBio": "cari temen",
+        "profileStatus": "",
+        "lastSeen": "Aktif Sekarang",
+        "lastSeenChatDate": "09/30",
+        "lastSeenChat": "Aktif Sekarang",
+        "userLocation": "",
+        "pesan": ["haii"],
+        "post": [
+            
+        ]
+    },
+    {
+        "litID": 4487531828,
+        "dateJoined": "Juni 2023",
+        "following": 26,
+        "followers": 14,
+        "diamond": 47,
+        "tag": ["Bosan", "Teman untuk habiskan waktu", "Mobile Legends"],
+        "fotoSampul": "",
+        "avatar": "monster_avatar_11",
+        "party": false,
+        "username": "cwo bugis",
+        "gender": "male",
+        "age": 18,
+        "profileBio": "moots ig wkz_put",
+        "profileStatus": "Terganggu",
+        "lastSeen": "Aktif Sekarang",
+        "lastSeenChatDate": "09/28",
+        "lastSeenChat": "Aktif Sekarang",
+        "userLocation": "",
+        "pesan": ["heyy"],
+        "post": [
+            
+        ]
+    },
+    {
+        "litID": 1694365413,
+        "dateJoined": "Agustus 2021",
+        "following": 26,
+        "followers": 14,
+        "diamond": 47,
+        "tag": ["game", "mencari cinta sejati", "Kesepian"],
+        "fotoSampul": "",
+        "avatar": "monster_avatar_12",
+        "party": false,
+        "username": "abdul",
+        "gender": "male",
+        "age": 18,
+        "profileBio": "sudah punya ayang nama nofi",
+        "profileStatus": "Ingin Video call",
+        "lastSeen": "Aktif 12 jam yang lalu",
+        "lastSeenChatDate": "09/26",
+        "lastSeenChat": "Aktif 12 jam yang lalu",
+        "userLocation": "",
+        "pesan": [],
+        "post": [
+            
+        ]
+    },
+    {
+        "litID": 4815305861,
+        "dateJoined": "September 2023",
+        "following": 26,
+        "followers": 14,
+        "diamond": 47,
+        "tag": ["Suka Begadang", "Humoris", "Cool", "Romantis", "Manja", "Kesepian", "Pelajar", "Teman untuk habiskan waktu"],
+        "fotoSampul": "",
+        "avatar": "monster_avatar_13",
+        "party": false,
+        "username": "florent_tine",
+        "gender": "female",
+        "age": 22,
+        "profileBio": "saya cwe, trimksih",
+        "profileStatus": "",
+        "lastSeen": "Aktif 3 jam yang lalu",
+        "lastSeenChatDate": "09/24",
+        "lastSeenChat": "Aktif 3 jam yang lalu",
+        "userLocation": "",
+        "pesan": [],
+        "post": [
+            
+        ]
+    },
+    {
+        "litID": 1697561266,
+        "dateJoined": "Januari 2021",
+        "following": 26,
+        "followers": 14,
+        "diamond": 47,
+        "tag": ["Fans idol", "Mencari teman", "Kpop", "K-drama"],
+        "fotoSampul": "",
+        "avatar": "monster_avatar_14",
+        "party": false,
+        "username": "sann",
+        "gender": "female",
+        "age": 22,
+        "profileBio": "Katolik",
+        "profileStatus": "",
+        "lastSeen": "Aktif 6 jam yang lalu",
+        "lastSeenChatDate": "09/22",
+        "lastSeenChat": "Aktif 6 jam yang lalu",
+        "userLocation": "",
+        "pesan": ["holaa"],
+        "post": [
+            
+        ]
+    },
+    {
+        "litID": 2541415963,
+        "dateJoined": "Januari 2022",
+        "following": 26,
+        "followers": 14,
+        "diamond": 47,
+        "tag": ["Hubungan serius", "Netflix", "Manja"],
+        "fotoSampul": "",
+        "avatar": "monster_avatar_15",
+        "party": false,
+        "username": "noVal",
+        "gender": "male",
+        "age": 20,
+        "profileBio": "sendiri mulu kapan sama kamunya?",
+        "profileStatus": "Mencari hubungan",
+        "lastSeen": "Aktif 5 jam yang lalu",
+        "lastSeenChatDate": "09/20",
+        "lastSeenChat": "Aktif 5 jam yang lalu",
+        "userLocation": "",
+        "pesan": [],
+        "post": [
+            
+        ]
+    }
+]
+

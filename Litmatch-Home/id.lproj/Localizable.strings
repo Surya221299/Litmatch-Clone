@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  Litmatch-Home
+
+  Created by Bamantara S on 15/10/23.
+  
+*/
+
+"bestMatch" = "Best Match";
+"bestMatchSub" = "Temui teman baru setiap hari";
+"age" = "Umur";
+"gender" = "Jenis Kelamin";
+"male" = "Laki-Laki";
+"female" = "Perempuan";
+"both" = "Keduanya";
+"acceptInvitationGame" = "Terima Undangan Game";
+"done" = "Selesai";
+"heyThereDesc" = "Buka GPS dalam fitur ini dan bertemu dengan teman baru";

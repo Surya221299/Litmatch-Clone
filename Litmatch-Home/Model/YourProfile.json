@@ -1,0 +1,103 @@
+{
+    "litID": 3984914645,
+    "dateJoined": "Desember 2022",
+    "following": 22,
+    "followers": 13,
+    "visited": 1300,
+    "lastVisited": 1230,
+    "diamond": 24,
+    "tag": ["Ingin chat"],
+    "fotoSampul": "",
+    "avatar": "monster_avatar_6(2)",
+    "party": false,
+    "username": "Surya Ramadhani",
+    "gender": "male",
+    "age": 24,
+    "profileBio": "dah mati rasa",
+    "profileStatus": "",
+    "lastSeen": "Aktif Sekarang",
+    "userLocation": "",
+    "yourPost": [
+        {
+            "datePosted": "01-15 20:38",
+            "statusText": "Coba Post ah",
+            "statusTag": [],
+            "gambarPost": ["vertical5"],
+            "voicePost": [],
+            "seen": 1291,
+            "postLocation": "",
+            "yourFeedLikes": [
+                {   "avatarLikes": "monster_avatar_1",
+                    "userLikes": "Riski",
+                    "genderLikes": "male",
+                    "ageLikes": 24,
+                    "userLikesStatus": "bosenan"
+                    
+                },
+                {
+                    "avatarLikes": "monster_avatar_2",
+                    "userLikes": "Anaa",
+                    "genderLikes": "female",
+                    "ageLikes": 19,
+                    "userLikesStatus": "mabar yuk"
+                },
+                {
+                    "avatarLikes": "monster_avatar_3",
+                    "userLikes": "Diana",
+                    "genderLikes": "female",
+                    "ageLikes": 21,
+                    "userLikesStatus": "jakarta timur"
+                },
+                {
+                    "avatarLikes": "monster_avatar_4",
+                    "userLikes": "Rahmat",
+                    "genderLikes": "male",
+                    "ageLikes": 18,
+                    "userLikesStatus": "apa aja"
+                }
+            ],
+            "yourFeedComments": [
+                {
+                    "avatarComments": "monster_avatar_1",
+                    "userComments": "Rahma",
+                    "genderComments": "female",
+                    "ageComments": 28,
+                    "commentStatus": "",
+                    "commentPostedDate": "8b",
+                    "comments": "jutek pasti",
+                    "yourFeedReComments": [
+                        {
+                            "avatarReComments": "monster_avatar_4",
+                            "userReComments": "Surya Ramadhani",
+                            "genderReComments": "male",
+                            "ageReComments": 24,
+                            "recommentPostedDate": "36m",
+                            "userReCommentStatus": "Penulis",
+                            "reComment": "enggak dong"
+                        },
+                        {
+                            "avatarReComments": "monster_avatar_1",
+                            "userReComments": "Rahma",
+                            "genderReComments": "female",
+                            "ageReComments": 28,
+                            "recommentPostedDate": "26m",
+                            "userReCommentStatus": "",
+                            "reComment": "masa sihh"
+                        }
+                    ]
+                },
+                {
+                    "avatarComments": "monster_avatar_3",
+                    "userComments": "Anna",
+                    "genderComments": "female",
+                    "ageComments": 21,
+                    "commentStatus": "",
+                    "commentPostedDate": "8b",
+                    "comments": "keren banget",
+                    "yourFeedReComments": []
+                }
+            ],
+            "feedShare": 0
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  Litmatch-Home
+
+  Created by Bamantara S on 15/10/23.
+  
+*/
+
+"bestMatch" = "最佳匹配";
+"bestMatchSub" = "每天结识新朋友";
+"age" = "年龄";
+"gender" = "性别";
+"male" = "男生";
+"female" = "女孩";
+"both" = "两个都";
+"acceptInvitationGame" = "收到游戏邀请";
+"done" = "完毕";
+"heyThereDesc" = "打开GPS功能，认识新朋友";
