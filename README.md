@@ -19,7 +19,7 @@ https://github.com/Surya221299/Litmatch-Clone/assets/60531747/8bcece1a-36f7-4f83
 
 ## **View in difference screen size**
 
-![View in difference screen size](https://github.com/Surya221299/Litmatch-Clone/assets/60531747/ce1ed7df-d3c4-48bd-a85a-e06bc33bd5cf)
+![View in difference screen size](https://github.com/Surya221299/Litmatch-Clone/assets/60531747/32a447d0-15d9-4a77-b04d-f77b6398f053)
 
 ## **Multiple Language**
 
