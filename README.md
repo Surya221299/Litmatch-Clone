@@ -1,5 +1,7 @@
 # Litmatch-Clone
 
+Portfolio project i’ve been created to implement what i’ve learn about Swift Programming Language and iOS App Development, created using SwiftUI. 
+
 ![10+ Screen View (1)](https://github.com/Surya221299/Litmatch-Clone/assets/60531747/d911191a-d091-453b-9bb6-3d56aeda16b5)
 
 
