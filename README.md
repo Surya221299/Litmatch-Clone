@@ -7,7 +7,8 @@ Portfolio project i’ve been created to implement what i’ve learn about Swift
 
 ## **Project Description**
 
- ![Cover](https://github.com/Surya221299/Litmatch-Clone/assets/60531747/91421d8c-6564-4468-8083-4208b394e0fe)
+![Cover](https://github.com/Surya221299/Litmatch-Clone/assets/60531747/d19affd8-2e91-46f0-974a-3ff85f53575c)
+
 
 _** Litmatch-Clone-Demo-Video**_
 
@@ -21,7 +22,8 @@ https://github.com/Surya221299/Litmatch-Clone/assets/60531747/8bcece1a-36f7-4f83
 
 ## **View in difference screen size**
 
-![View in difference screen size](https://github.com/Surya221299/Litmatch-Clone/assets/60531747/32a447d0-15d9-4a77-b04d-f77b6398f053)
+![View in difference screen size](https://github.com/Surya221299/Litmatch-Clone/assets/60531747/1a30dc8d-1586-4885-abde-98c2e2e45faa)
+
 
 ## **Multiple Language**
 
